@@ -1,0 +1,9 @@
+:root{
+    --blue: #2430a0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "PP Pangram Sans Rounded-Bold", Helvetica;
+}

@@ -1,0 +1,35 @@
+.cards-container {
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.cards-row {
+  display: flex;
+  padding: 1rem;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.cards {
+  width: 100%;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  box-sizing: border-box;
+  color: var(--blue);
+}
+
+.cards img {
+  width: 100%;
+  height: 150px;
+}
+
+.blue {
+  color: var(--blue);
+}
+
+@media (min-width: 768px) {
+  .cards {
+    width: calc(25% - 25px);
+  }
+}

@@ -1,37 +1,3 @@
-/* .hero-container{
-    display: flex;
-    color: var(--blue);
-    padding: 10px;
-}
-
-.left-part{
-    width: 50%;
-    padding: 2rem;
-}
-
-.image{
-    width: 50px;
-    
-}
-
-h1{
-    font-size: 25px;
-}
-
-span{
-    justify-content: center;
-}
-
-.image-container{
-    width: 50%;
-} */
-
-/* Hero.css */
-
-/* Hero.css */
-
-/* Hero.css */
-
 .hero-container {
     display: flex;
     justify-content: space-between;
